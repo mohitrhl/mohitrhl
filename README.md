@@ -102,7 +102,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=mohitrhl&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<sub>⚡ Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
