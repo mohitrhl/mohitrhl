@@ -80,19 +80,32 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitrhl&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitrhl&theme=catppuccin_mocha&hide_border=true" />
+
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohitrhl&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrhl&layout=compact&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false" />
+
+<br><br>
+
+### Mohit Kumar's GitHub Stats
+
+| 🌟 Total Stars Earned | 💻 Total Commits (last year) | 🔃 Total PRs | ⚠️ Total Issues | 🏢 Contributed to (last year) |
+|:---:|:---:|:---:|:---:|:---:|
+| — | — | — | — | — |
+
+> _Stats auto-update via GitHub Actions_
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitrhl&theme=catppuccin_mocha&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitrhl&theme=react-dark&hide_border=true&area=true&custom_title=Mohit%20Kumar's%20Contribution%20Graph" />
 
 </div>
-
 
 <br>
 
@@ -101,7 +114,6 @@
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=mohitrhl&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
