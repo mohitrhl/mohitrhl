@@ -84,11 +84,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitrhl&theme=catppuccin_mocha&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrhl&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=false" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitrhl&theme=catppuccin_mocha&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitrhl&layout=compact&theme=catppuccin_mocha&hide_border=true&count_private=false" />
 
 <br><br>
 
